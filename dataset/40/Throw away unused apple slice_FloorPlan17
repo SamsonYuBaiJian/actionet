@@ -1,0 +1,1 @@
+['Throw away unused apple slice', 'FloorPlan17']['LookDown', 'RotateRight', 'MoveLeft', 'MoveLeft', 'MoveAhead', 'MoveAhead', 'MoveAhead', 'PickupObject', 'Apple|+01.05|+00.94|+02.38|AppleSliced_1', 'MoveRight', 'MoveRight', 'MoveRight', 'PutObject', 'Apple|+01.05|+00.94|+02.38|AppleSliced_1', 'GarbageCan|+01.30|+00.01|+01.47']

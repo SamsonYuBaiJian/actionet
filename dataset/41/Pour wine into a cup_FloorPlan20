@@ -1,0 +1,1 @@
+['Pour wine into a cup', 'FloorPlan20']['MoveBack', 'MoveAhead', 'MoveAhead', 'MoveAhead', 'RotateLeft', 'LookDown', 'PickupObject', 'WineBottle|+01.96|+00.90|-01.66', 'RotateLeft', 'MoveLeft', 'MoveLeft', 'MoveLeft', 'MoveLeft', 'MoveLeft', 'MoveAhead', 'MoveAhead', 'MoveAhead', 'MoveAhead', 'MoveAhead', 'FillObjectWithLiquid', 'Cup|-00.06|+00.92|+00.10', 'wine']

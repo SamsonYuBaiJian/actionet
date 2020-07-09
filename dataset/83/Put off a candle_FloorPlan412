@@ -1,0 +1,1 @@
+['Put off a candle', 'FloorPlan412']['LookDown', 'RotateRight', 'RotateRight', 'MoveLeft', 'LookDown', 'LookDown', 'MoveBack', 'MoveAhead', 'OpenObject', 'Cabinet|-03.17|+00.37|-01.38', 'PickupObject', 'Candle|-03.45|+00.08|-01.27', 'ToggleObjectOff', 'Candle|-03.45|+00.08|-01.27']

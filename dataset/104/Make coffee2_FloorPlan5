@@ -1,0 +1,1 @@
+['Make coffee2', 'FloorPlan5']['LookDown', 'PickupObject', 'Mug|+00.13|+01.12|+00.57', 'RotateLeft', 'MoveAhead', 'MoveAhead', 'MoveAhead', 'MoveAhead', 'MoveAhead', 'MoveAhead', 'MoveRight', 'PutObject', 'Mug|+00.13|+01.12|+00.57', 'CoffeeMachine|+00.50|+00.90|-02.13', 'ToggleObjectOn', 'CoffeeMachine|+00.50|+00.90|-02.13']

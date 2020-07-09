@@ -1,0 +1,1 @@
+['Wash Dishes', 'FloorPlan4']['RotateLeft', 'MoveLeft', 'MoveLeft', 'MoveLeft', 'MoveAhead', 'MoveAhead', 'PickupObject', 'DishSponge|-01.12|+01.14|+00.09', 'UseUpObject', 'LookDown', 'CleanObject', 'Plate|-01.19|+00.92|+00.40', 'RotateRight']

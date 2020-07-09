@@ -1,0 +1,1 @@
+['Pour away water from pot', 'FloorPlan17']['RotateRight', 'RotateRight', 'MoveAhead', 'MoveAhead', 'MoveAhead', 'MoveAhead', 'MoveAhead', 'LookDown', 'MoveAhead', 'MoveAhead', 'PickupObject', 'Pot|+00.51|+00.94|-00.49', 'EmptyLiquidFromObject', 'Pot|+00.51|+00.94|-00.49']

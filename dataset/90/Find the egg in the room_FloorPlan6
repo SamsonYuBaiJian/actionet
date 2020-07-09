@@ -1,0 +1,1 @@
+['Find the egg in the room', 'FloorPlan6']['LookDown', 'RotateRight', 'RotateLeft', 'MoveAhead', 'MoveAhead', 'MoveAhead', 'MoveAhead', 'MoveAhead', 'MoveAhead', 'LookUp', 'LookDown', 'OpenObject', 'Fridge|-02.48|+00.00|-00.78', 'PickupObject', 'Egg|-02.43|+00.62|-00.75']

@@ -1,0 +1,1 @@
+['Fill up cup with water', 'FloorPlan13']['RotateLeft', 'MoveAhead', 'MoveAhead', 'MoveAhead', 'MoveAhead', 'MoveAhead', 'MoveAhead', 'LookDown', 'PickupObject', 'Cup|-01.70|+00.91|+01.95', 'FillObjectWithLiquid', 'Cup|-01.70|+00.91|+01.95', 'water']

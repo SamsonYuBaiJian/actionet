@@ -1,0 +1,1 @@
+['Fill the sink with water', 'FloorPlan407']['LookUp', 'LookDown', 'MoveAhead', 'MoveAhead', 'MoveAhead', 'MoveAhead', 'LookDown', 'ToggleObjectOn', 'Faucet|-00.51|+00.90|-01.78', 'MoveRight', 'MoveRight', 'MoveRight', 'ToggleObjectOn', 'Faucet|-01.54|+00.90|-01.78', 'ToggleObjectOff', 'Faucet|-00.51|+00.90|-01.78', 'ToggleObjectOff', 'Faucet|-01.54|+00.90|-01.78']

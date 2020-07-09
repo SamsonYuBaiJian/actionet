@@ -1,0 +1,1 @@
+['Turn on shower head', 'FloorPlan411']['LookDown', 'RotateLeft', 'MoveBack', 'MoveLeft', 'MoveLeft', 'MoveLeft', 'MoveBack', 'MoveLeft', 'MoveAhead', 'OpenObject', 'ShowerDoor|-02.67|+01.00|+02.80', 'MoveAhead', 'MoveAhead', 'MoveLeft', 'MoveLeft', 'MoveAhead', 'ToggleObjectOn', 'Faucet|-02.62|+01.82|+03.36']

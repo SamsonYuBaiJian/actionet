@@ -1,0 +1,1 @@
+['Clear the fridge', 'FloorPlan1']['OpenObject', 'Fridge|-02.10|+00.00|+01.09', 'LookDown', 'PickupObject', 'Egg|-02.00|+00.83|+01.30', 'RotateRight', 'RotateRight', 'MoveLeft', 'MoveLeft', 'MoveAhead', 'MoveAhead', 'MoveAhead', 'RotateRight', 'MoveAhead', 'MoveAhead', 'MoveAhead', 'MoveHandAhead', 'MoveHandAhead', 'MoveHandAhead', 'MoveHandAhead', 'DropHandObject', 'LookDown']

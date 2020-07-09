@@ -1,0 +1,1 @@
+['Prepare sliced apple', 'FloorPlan7']['LookDown', 'RotateRight', 'MoveAhead', 'MoveAhead', 'MoveAhead', 'MoveAhead', 'MoveAhead', 'MoveAhead', 'MoveAhead', 'MoveAhead', 'MoveAhead', 'RotateLeft', 'MoveAhead', 'MoveAhead', 'PickupObject', 'Knife|-00.75|+00.91|-01.32', 'SliceObject', 'Apple|-00.79|+00.96|-01.44']

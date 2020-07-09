@@ -1,0 +1,1 @@
+['sink towel in water', 'FloorPlan409']['LookDown', 'MoveLeft', 'MoveAhead', 'MoveAhead', 'ToggleObjectOn', 'Faucet|+00.72|+00.98|+02.76', 'PickupObject', 'HandTowel|+00.63|+01.51|+01.89', 'PutObject', 'HandTowel|+00.63|+01.51|+01.89', 'Sink|+00.50|+00.66|+02.76|SinkBasin']

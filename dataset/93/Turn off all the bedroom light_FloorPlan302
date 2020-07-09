@@ -1,0 +1,1 @@
+['Turn off all the bedroom light', 'FloorPlan302']['RotateRight', 'RotateRight', 'MoveAhead', 'MoveAhead', 'MoveAhead', 'MoveAhead', 'ToggleObjectOff', 'LightSwitch|+00.01|+01.32|+01.50', 'LookDown', 'ToggleObjectOff', 'DeskLamp|+00.48|+00.67|+01.35']

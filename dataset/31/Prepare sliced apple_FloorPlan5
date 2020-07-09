@@ -1,0 +1,1 @@
+['Prepare sliced apple', 'FloorPlan5']['RotateLeft', 'RotateLeft', 'MoveRight', 'MoveRight', 'LookDown', 'OpenObject', 'Fridge|+01.98|+00.00|-00.54', 'RotateRight', 'RotateRight', 'PickupObject', 'Knife|+00.03|+00.91|+00.15', 'RotateLeft', 'RotateLeft', 'SliceObject', 'Apple|+01.71|+00.87|-00.65']

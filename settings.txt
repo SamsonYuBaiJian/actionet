@@ -1,0 +1,10 @@
+actionet_path=/home/samson/Documents/github/SamsonYuBaiJian/actionet/
+ai2thor_build_path=/home/samson/Documents/github/SamsonYuBaiJian/ai2thor/unity/Builds/thor-local-Ubuntu1804.x86_64
+target_data_dir_for_frames=/home/samson/Documents/github/SamsonYuBaiJian/actionet/dataset/1
+save_frames_dir=/home/samson/Documents/github/SamsonYuBaiJian/actionet/saved_frames
+save_augmented_data_dir=/home/samson/Documents/github/SamsonYuBaiJian/actionet/augmented_dataset
+target_augmentation_file=/home/samson/Documents/github/SamsonYuBaiJian/actionet/dataset/59/Close the blinds_FloorPlan317
+random_start=True
+seed=42
+width=640
+height=640

@@ -1,0 +1,1 @@
+['Read a book', 'FloorPlan202']['LookDown', 'RotateRight', 'MoveAhead', 'MoveAhead', 'MoveAhead', 'MoveAhead', 'MoveAhead', 'RotateLeft', 'RotateLeft', 'RotateRight', 'MoveAhead', 'MoveAhead', 'MoveAhead', 'MoveAhead', 'MoveAhead', 'MoveAhead', 'RotateRight', 'LookDown', 'OpenObject', 'Book|-01.94|+00.70|+03.61', 'PickupObject', 'Book|-01.94|+00.70|+03.61']

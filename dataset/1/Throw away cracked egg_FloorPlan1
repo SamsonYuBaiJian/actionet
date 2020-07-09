@@ -1,0 +1,1 @@
+['Throw away cracked egg', 'FloorPlan1']['OpenObject', 'Fridge|-02.10|+00.00|+01.09', 'MoveRight', 'MoveBack', 'MoveAhead', 'MoveAhead', 'LookDown', 'PickupObject', 'Egg|-02.00|+00.83|+01.30|EggCracked_0', 'CloseObject', 'Fridge|-02.10|+00.00|+01.09', 'ThrowObject']

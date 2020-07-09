@@ -1,0 +1,1 @@
+['Use laptop', 'FloorPlan205']['LookDown', 'MoveAhead', 'MoveAhead', 'PushObject', 'Chair|-01.55|+00.00|+01.78', 'MoveAhead', 'MoveAhead', 'MoveLeft', 'MoveAhead', 'MoveAhead', 'RotateRight', 'MoveAhead', 'Crouch', 'MoveAhead', 'MoveAhead', 'LookUp', 'OpenObject', 'Laptop|-01.68|+00.75|+01.49', 'ToggleObjectOn', 'Laptop|-01.68|+00.75|+01.49']

@@ -1,6 +1,6 @@
 # ActioNet: An Interactive End-to-End Platform for Task-Based Data Collection and Augmentation in 3D Environments
 ## Task-Based Dataset
-It is created using **AI2-THOR** (https://ai2thor.allenai.org/). We have **made changes** to allow for the **customisation of initial scene settings (eg. object state) for some tasks**. The edited AI2-THOR can be cloned from `https://github.com/SamsonYuBaiJian/ai2thor`. The custom scene configurations can be found in `./util/scene_config.py`.
+It is created using **AI2-THOR** (https://ai2thor.allenai.org/). We have **made changes** to allow for the **customisation of initial scene settings (eg. object state) for some tasks**. The edited AI2-THOR can be cloned from https://github.com/SamsonYuBaiJian/ai2thor. The custom scene configurations can be found in `./util/scene_config.py`.
 
 Our **human annotated dataset** can be found in the `./dataset/{collection_instance}` folders.
 

@@ -10,8 +10,10 @@
 
 https://user-images.githubusercontent.com/51585075/126681185-179bafba-65b5-44ce-a862-a7594a926fcd.mp4
 
-[ActioNet Paper](https://arxiv.org/abs/2010.01357) 
-[Video](https://youtu.be/nZAegJgGe8E)
+## ActioNet Paper
+[ActioNet Paper](https://arxiv.org/abs/2010.01357)    [Video](https://youtu.be/nZAegJgGe8E)
+
+
 
 
 ## Task-Based Dataset

@@ -59,14 +59,16 @@ Data files that have **hand movements, 'ThrowObject', 'PullObject' or 'PushObjec
 - Do a final examination of the human annotated and augmented datasets
 - Explore interesting use cases
 
-## If you use iTHOR, please cite the our paper:
+## If you use ActioNet, please cite the our paper:
 @inproceedings{duan2020actionet,
+
   title={Actionet: An Interactive End-To-End Platform For Task-Based Data Collection And Augmentation In 3D Environment},
   author={Duan, Jiafei and Yu, Samson and Tan, Hui Li and Tan, Cheston},
   booktitle={2020 IEEE International Conference on Image Processing (ICIP)},
   pages={1566--1570},
   year={2020},
   organization={IEEE}
+  
 }
 
 

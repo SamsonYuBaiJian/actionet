@@ -1,6 +1,6 @@
 # ActioNet: An Interactive End-to-End Platform for Task-Based Data Collection and Augmentation in 3D Environments
 
-Paper: https://arxiv.org/abs/2010.01357
+ActioNet Paper: https://arxiv.org/abs/2010.01357
 
 ## Task-Based Dataset
 It is created using **AI2-THOR** (https://ai2thor.allenai.org/). We have **made changes** to allow for the **customisation of initial scene settings (eg. object state) for some tasks**. The edited AI2-THOR can be cloned from https://github.com/SamsonYuBaiJian/ai2thor. The custom scene configurations can be found in `./util/scene_config.py`.
@@ -58,3 +58,15 @@ Data files that have **hand movements, 'ThrowObject', 'PullObject' or 'PushObjec
 ## Future Work
 - Do a final examination of the human annotated and augmented datasets
 - Explore interesting use cases
+
+## If you use iTHOR, please cite the our paper:
+@inproceedings{duan2020actionet,
+  title={Actionet: An Interactive End-To-End Platform For Task-Based Data Collection And Augmentation In 3D Environment},
+  author={Duan, Jiafei and Yu, Samson and Tan, Hui Li and Tan, Cheston},
+  booktitle={2020 IEEE International Conference on Image Processing (ICIP)},
+  pages={1566--1570},
+  year={2020},
+  organization={IEEE}
+}
+
+

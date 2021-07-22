@@ -7,6 +7,7 @@
 ![Picture1](https://user-images.githubusercontent.com/51585075/126681121-b659a336-ac85-478c-aadc-af761cca69d8.png)
 
 ##ActioNet GUI for data collection
+
 https://user-images.githubusercontent.com/51585075/126681185-179bafba-65b5-44ce-a862-a7594a926fcd.mp4
 
 ActioNet Paper: https://arxiv.org/abs/2010.01357

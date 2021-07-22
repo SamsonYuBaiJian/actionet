@@ -1,12 +1,12 @@
 # ActioNet: An Interactive End-to-End Platform for Task-Based Data Collection and Augmentation in 3D Environments
 
-##ActioNet Pipeline
+## ActioNet Pipeline
 ![Picture2](https://user-images.githubusercontent.com/51585075/126681077-4f5b08ad-11d7-4a68-860b-99b62a84e120.png)
 
-##ActioNet Data Annoatation
+## ActioNet Data Annoatation
 ![Picture1](https://user-images.githubusercontent.com/51585075/126681121-b659a336-ac85-478c-aadc-af761cca69d8.png)
 
-##ActioNet GUI for data collection
+## ActioNet GUI for data collection
 
 https://user-images.githubusercontent.com/51585075/126681185-179bafba-65b5-44ce-a862-a7594a926fcd.mp4
 
